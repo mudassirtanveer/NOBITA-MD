@@ -36,7 +36,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 `FORK 🍴 AND STAR ⭐ IF YOU LIKE THIS BOT`
 
-  <a href="https://github.com/saasipro/Darkzone-bot/fork"><img title="DARKZONE-MD" src="https://img.shields.io/badge/FORK-DARKZONE%20MD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/mudassirtanveer/NOBITA-MD/edit/main/fork"><img title="DARKZONE-MD" src="https://img.shields.io/badge/FORK-DARKZONE%20MD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
   
 ### 2. 𐃁GET SESSION ID𐃁 
 
