@@ -57,7 +57,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 ---
 
-### <h2 align="">DARKZONE-MD DEPLOYMENT OPTIONS𐃁</h2>
+### <h2 align="">NOBITA-MD DEPLOYMENT OPTIONS𐃁</h2>
 
 ---
 
