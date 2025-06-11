@@ -44,7 +44,7 @@ const {
   const path = require('path')
   const prefix = config.PREFIX
   
-  const ownerNumber = ['923306137477']
+  const ownerNumber = ['923376156638']
   
   const tempDir = path.join(os.tmpdir(), 'cache-temp')
   if (!fs.existsSync(tempDir)) {
@@ -113,20 +113,20 @@ const port = process.env.PORT || 9090;
   console.log('Plugins installed successful ✅')
   console.log('Bot connected to whatsapp ✅')
   
-  let up = `╭─〔 *🤖 DARKZONE-MD BOT* 〕  
+  let up = `╭─〔 *🤖 NOBITA-MD BOT* 〕  
 ├─▸ *Ultra Super Fast Powerfull ⚠️*  
-│     *World ONE Best BOT DARKZONE-MD* 
+│     *World ONE Best BOT NOBITA-MD* 
 ╰─➤ *Your Smart WhatsApp Bot is Ready To use 🍁!*  
 
-- *🖤 Thank You so much for Choosing DARKZONE-MD!* 
+- *🖤 Thank You so much for Choosing NOBITA-MD!* 
 
 ╭──〔 🔗 *Information* 〕  
 ├─ 🧩 *Prefix:* = ${prefix}
 ├─ 📢 *Join Channel:*  
-│    https://whatsapp.com/channel/0029Vb5dDVO59PwTnL86j13J  
+│    https://whatsapp.com/channel/0029Vb62xsP2f3EMTDwehu2z  
 ├─ 🌟 *Star the Repo:*  
-│    https://github.com/DARKZONE-MD/DARKZONE-MD.git  
-╰─🚀 *Powered by ERFAN AHMAD*`;
+│    https://github.com/mudassirtanveer/NOBITA-MD.git  
+╰─🚀 *Powered by ERFANAHMAD,MUDASSIRTANVEER*`;
     conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/r2ncqh` }, caption: up })
   }
   })
@@ -299,7 +299,7 @@ const isBanned = bannedUsers.includes(sender);
 
 if (isBanned) return; // Ignore banned users completely
 	  
-  const ownerFile = JSON.parse(fs.readFileSync('./lib/sudo.json', 'utf-8'));  // JawadTechX 
+  const ownerFile = JSON.parse(fs.readFileSync('./lib/sudo.json', 'utf-8'));  // ERFAN, MUDASSIRTANVEER 
   const ownerNumberFormatted = `${config.OWNER_NUMBER}@s.whatsapp.net`;
   // json file setup
   const isFileOwner = ownerFile.includes(sender);
@@ -783,7 +783,7 @@ if (isBanned) return; // Ignore banned users completely
   }
   
   app.get("/", (req, res) => {
-  res.send("DARKZONE-MD STARTED ✅");
+  res.send("NOBITA-MD STARTED ✅");
   });
   app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
   setTimeout(() => {
