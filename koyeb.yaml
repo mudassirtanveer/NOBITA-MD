@@ -1,6 +1,6 @@
-name: DARKZONE-MD
+name: NOBITA-MD
 services:
-  - name: DARKZONE-MD-service
+  - name: NOBITA-MD-service
     type: web
     ports:
       - 5000
